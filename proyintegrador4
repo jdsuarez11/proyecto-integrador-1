@@ -60,7 +60,7 @@ def main_loop(mapa, posicion_inicial, posicion_final):
             print("Saliste del juego")
             break
 
-    print(posicion_final)
+    print("Lo lograste!")
 
 
 mapa = mapa_laberinto(laberinto)
